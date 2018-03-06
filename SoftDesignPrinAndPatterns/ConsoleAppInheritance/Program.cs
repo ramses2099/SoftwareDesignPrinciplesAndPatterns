@@ -11,7 +11,20 @@ namespace ConsoleAppInheritance
         static void Main(string[] args)
         {
 
+            ILamp lamp = new Lamp();
 
+            lamp.IsPlugged = true;
+
+            lamp.IsSwitchOn = true;
+
+            IFridge fridge = new Fridge();
+
+            fridge.SetTemperature = 58d;
+
+            fridge.IsPlugged = true;
+
+
+            Console.ReadKey();
 
         }
     }

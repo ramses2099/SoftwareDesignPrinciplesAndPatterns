@@ -6,10 +6,11 @@ using System.Threading.Tasks;
 
 namespace ConsoleAppInheritance
 {
-    public interface ILamp : IPowerPlug
+    public interface ITemperatureSetter
     {
-        bool IsOn { get; set; }
+        double SetTemperature { get; set; }
 
-        bool IsSwitchOn { get; set; }
+        double RealTemperature { get;  }
+
     }
 }
