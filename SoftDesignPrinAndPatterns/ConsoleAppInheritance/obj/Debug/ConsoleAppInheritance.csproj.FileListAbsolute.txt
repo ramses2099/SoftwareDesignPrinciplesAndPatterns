@@ -1,0 +1,1 @@
+C:\Users\jose.encarnacion\Source\Repos\SoftwareDesignPrinciplesAndPatterns\SoftDesignPrinAndPatterns\ConsoleAppInheritance\bin\Debug\ConsoleAppInheritance.exe.config
