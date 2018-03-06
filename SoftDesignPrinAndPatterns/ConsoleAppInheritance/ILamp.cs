@@ -6,13 +6,10 @@ using System.Threading.Tasks;
 
 namespace ConsoleAppInheritance
 {
-    class Program
+    public interface ILamp : IPowerPlug
     {
-        static void Main(string[] args)
-        {
+        bool IsOn { get; }
 
-
-
-        }
+        bool IsSwitchOn { get; set; }
     }
 }

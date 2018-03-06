@@ -1,1 +1,6 @@
 C:\Users\jose.encarnacion\Source\Repos\SoftwareDesignPrinciplesAndPatterns\SoftDesignPrinAndPatterns\ConsoleAppInheritance\bin\Debug\ConsoleAppInheritance.exe.config
+C:\Users\jose.encarnacion\Source\Repos\SoftwareDesignPrinciplesAndPatterns\SoftDesignPrinAndPatterns\ConsoleAppInheritance\bin\Debug\ConsoleAppInheritance.exe
+C:\Users\jose.encarnacion\Source\Repos\SoftwareDesignPrinciplesAndPatterns\SoftDesignPrinAndPatterns\ConsoleAppInheritance\bin\Debug\ConsoleAppInheritance.pdb
+C:\Users\jose.encarnacion\Source\Repos\SoftwareDesignPrinciplesAndPatterns\SoftDesignPrinAndPatterns\ConsoleAppInheritance\obj\Debug\ConsoleAppInheritance.csprojResolveAssemblyReference.cache
+C:\Users\jose.encarnacion\Source\Repos\SoftwareDesignPrinciplesAndPatterns\SoftDesignPrinAndPatterns\ConsoleAppInheritance\obj\Debug\ConsoleAppInheritance.exe
+C:\Users\jose.encarnacion\Source\Repos\SoftwareDesignPrinciplesAndPatterns\SoftDesignPrinAndPatterns\ConsoleAppInheritance\obj\Debug\ConsoleAppInheritance.pdb

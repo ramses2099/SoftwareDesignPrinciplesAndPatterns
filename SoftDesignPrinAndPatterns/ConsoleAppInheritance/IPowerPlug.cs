@@ -6,13 +6,8 @@ using System.Threading.Tasks;
 
 namespace ConsoleAppInheritance
 {
-    class Program
+    public interface IPowerPlug
     {
-        static void Main(string[] args)
-        {
-
-
-
-        }
+        bool IsPlugged { get; set; }
     }
 }
